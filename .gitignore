@@ -1,0 +1,7 @@
+.venv/
+*pycache*/
+**/.ipynb_checkpoints
+
+files/*
+
+!**/.keep
